@@ -4,6 +4,7 @@ This repository contains the implementation developed for my Master's thesis foc
 
 The objective of this work is to move beyond pixel-wise segmentation and improve the **structural quality and connectivity** of predicted road networks.
 
+Supervisors: Ludovico Giorgio Aldo Biagi, Nikolina Zallemi
 ---
 
 ## Project Overview
